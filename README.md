@@ -71,8 +71,6 @@ Here are some ideas to get you started:
 
 ---
 
-### 📈 GitHub Stats:
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KROIA&show_icons=true&theme=dark)
 
 ---
