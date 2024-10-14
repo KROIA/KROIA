@@ -14,3 +14,59 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+# Hi there 👋, I'm Alex
+
+### 🔧 C++ Developer | 🎛 Electronics Enthusiast | 💻 Creator from Scratch 
+
+---
+
+<!-- ### 🛠 Tech Stack -->
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![SFML](https://img.shields.io/badge/SFML-8CC4D7?style=for-the-badge&logo=sfml&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+---
+
+### ⚡ Projects I'm Working On:
+
+- 📚 **[QT cmake library template](https://github.com/KROIA/QT_cmake_library_template)**: Template for creating c++ Qt libraries and applications
+- 🔧 **[Cmake Lib Creator](https://github.com/KROIA/CmakeLibCreator)**: Tool to create and manage CMake based c++ libaries using the template above.
+#### Libraries
+  * 🎮 **[QSFML EditorWidget](https://github.com/KROIA/QSFML_EditorWidget)**: A simple game enginge to create simulation projects.
+  * ✏️ **[Logger](https://github.com/KROIA/Logger)**: Library for creating and visualizing log messages.
+  * 🔐 **[License Manager](https://github.com/KROIA/LicenseManager)**: License creation and validation library.
+  * #️⃣ **[Ribbon Widget](https://github.com/KROIA/RibbonWidget)**: Library to create a ribbon for a Qt application.
+  * 🔀 **[Task Graph](https://github.com/KROIA/TaskGraph)**: Library for scheduling tasks with dependencies using multithreading.
+  * 🐒 **[Neural Net](https://github.com/KROIA/NeuralNet)**: Simple machine learning library.
+  * 📓 **[Json Database](https://github.com/KROIA/JsonDatabase)**: Library to serialize and deserialize objects as json format.
+  * 🔧 **[App Settings](https://github.com/KROIA/AppSettings)**: Library to manage application settings.
+  * 🔎 **[Unit Test](https://github.com/KROIA/UnitTest)**: Library to create unit tests.
+  * 💥 **[Crash Report](https://github.com/KROIA/CrashReport)**: Library that shuld detect the crash of a application and saves the stack trace and some debug infos.
+  * 🈂️ **[Command line parser](https://github.com/KROIA/CommandLineParser)**: Library to read and parse command line arguments.
+
+#### Unity Assets
+  * **[Flexible Save System](https://github.com/KROIA/Flexible-save-system)**: [Unity Asset Store](https://assetstore.unity.com/packages/add-ons/flexible-save-system-225017?srsltid=AfmBOoqDdcZV3FU8nCg029gN6xTE0E6i8E4hJ36Cq8EUV77YL5tSj0fJ)
+    
+---
+
+### 🔬 Hobbies & Interests:
+
+- C++ programming from scratch
+- Hardware interfacing with microcontrollers
+- Exploring efficient graphics rendering techniques
+- Designing custom applications and libraries
+
+---
+
+### 📈 GitHub Stats:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KROIA&show_icons=true&theme=dark)
+
+---
