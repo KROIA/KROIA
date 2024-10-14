@@ -52,8 +52,10 @@ Here are some ideas to get you started:
   * 🈂️ **[Command line parser](https://github.com/KROIA/CommandLineParser)**: Library to read and parse command line arguments.
 
 #### Unity Assets
-  * **[Flexible Save System](https://github.com/KROIA/Flexible-save-system)**: [Unity Asset Store](https://assetstore.unity.com/packages/add-ons/flexible-save-system-225017?srsltid=AfmBOoqDdcZV3FU8nCg029gN6xTE0E6i8E4hJ36Cq8EUV77YL5tSj0fJ)
-    
+  * 📓 **[Flexible Save System](https://github.com/KROIA/Flexible-save-system)**: [Unity Asset Store](https://assetstore.unity.com/packages/add-ons/flexible-save-system-225017?srsltid=AfmBOoqDdcZV3FU8nCg029gN6xTE0E6i8E4hJ36Cq8EUV77YL5tSj0fJ)
+
+#### CAD Models
+  * 📐 **[All Models](https://grabcad.com/alex.krieg-1/models)**: CAD models for electronics and other stuff.
 ---
 
 ### 🔬 Hobbies & Interests:
