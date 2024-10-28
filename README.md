@@ -50,6 +50,7 @@ Here are some ideas to get you started:
   * 🔎 **[Unit Test](https://github.com/KROIA/UnitTest)**: Library to create unit tests.
   * 💥 **[Crash Report](https://github.com/KROIA/CrashReport)**: Library that shuld detect the crash of a application and saves the stack trace and some debug infos.
   * 🈂️ **[Command line parser](https://github.com/KROIA/CommandLineParser)**: Library to read and parse command line arguments.
+  * 📄 **[Object Serializer](https://github.com/KROIA/ObjectSerializer)**: Library to save and load objects to/from a binary file.
 
 #### Unity Assets
   * 📓 **[Flexible Save System](https://github.com/KROIA/Flexible-save-system)**: [Unity Asset Store](https://assetstore.unity.com/packages/add-ons/flexible-save-system-225017?srsltid=AfmBOoqDdcZV3FU8nCg029gN6xTE0E6i8E4hJ36Cq8EUV77YL5tSj0fJ)
