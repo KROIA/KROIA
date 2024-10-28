@@ -61,8 +61,7 @@ Here are some ideas to get you started:
 ### 🔬 Hobbies & Interests:
 
 - C++ programming from scratch
-- Hardware interfacing with microcontrollers
-- Exploring efficient graphics rendering techniques
+- Simulation programming
 - Designing custom applications and libraries
 
 ---
