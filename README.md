@@ -38,7 +38,8 @@ Here are some ideas to get you started:
 
 - 📚 **[QT cmake library template](https://github.com/KROIA/QT_cmake_library_template)**: Template for creating c++ Qt libraries and applications
 - 🔧 **[Cmake Lib Creator](https://github.com/KROIA/CmakeLibCreator)**: Tool to create and manage CMake based c++ libaries using the template above.
-- 💲  **[Stock Market Mod](https://github.com/KROIA/StockMarket)**: Minecraft mod to buy and sell items on a global market.
+- 💲  **[Bank System Mod](https://github.com/KROIA/BankSystem)**: Minecraft mod that brings money and a banking system for items to the game.
+- 📈 **[Stock Market Mod](https://github.com/KROIA/StockMarket)**: Minecraft mod to buy and sell items on a global market.
 #### Libraries
   * 🎮 **[QSFML EditorWidget](https://github.com/KROIA/QSFML_EditorWidget)**: A simple game enginge to create simulation projects.
   * ✏️ **[Logger](https://github.com/KROIA/Logger)**: Library for creating and visualizing log messages.
