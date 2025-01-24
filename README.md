@@ -50,7 +50,7 @@ Here are some ideas to get you started:
   * 📓 **[Json Database](https://github.com/KROIA/JsonDatabase)**: Library to serialize and deserialize objects as json format.
   * 🔧 **[App Settings](https://github.com/KROIA/AppSettings)**: Library to manage application settings.
   * 🔎 **[Unit Test](https://github.com/KROIA/UnitTest)**: Library to create unit tests.
-  * 💥 **[Crash Report](https://github.com/KROIA/CrashReport)**: Library that shuld detect the crash of a application and saves the stack trace and some debug infos.
+  * 💥 **[Crash Report](https://github.com/KROIA/CrashReport)**: Library that should detect the crash of a application and saves the stack trace and some debug infos.
   * 🈂️ **[Command line parser](https://github.com/KROIA/CommandLineParser)**: Library to read and parse command line arguments.
   * 📄 **[Object Serializer](https://github.com/KROIA/ObjectSerializer)**: Library to save and load objects to/from a binary file.
 
