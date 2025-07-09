@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <!-- ### 🛠 Tech Stack -->
 
-<!--![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white) -->
+<!--![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
@@ -29,8 +29,9 @@ Here are some ideas to get you started:
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Autodesk Inventor](https://img.shields.io/badge/Autodesk%20Inventor-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
-![Autodesk Eagle](https://img.shields.io/badge/Autodesk%20Eagle-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
+![Autodesk Eagle](https://img.shields.io/badge/Autodesk%20Eagle-0696D7?style=for-the-badge&logo=autodesk&logoColor=white) -->
 
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,qt,visualstudio,arduino,cmake,unity)](https://skillicons.dev)
 
 ---
 
