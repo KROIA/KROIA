@@ -1,75 +1,122 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋</h1>
 
-<!--
-**KROIA/KROIA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-### 🔧 C++ Developer | 🎛 Electronics Enthusiast | 💻 Creator from Scratch 
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=C%2B%2B+Developer;Electronics+Enthusiast;Creator+from+Scratch" alt="Typing SVG" /></a>
+</p>
 
 ---
 
-<!-- ### 🛠 Tech Stack -->
-
-<!--![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![SFML](https://img.shields.io/badge/SFML-8CC4D7?style=for-the-badge&logo=sfml&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Autodesk Inventor](https://img.shields.io/badge/Autodesk%20Inventor-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
-![Autodesk Eagle](https://img.shields.io/badge/Autodesk%20Eagle-0696D7?style=for-the-badge&logo=autodesk&logoColor=white) -->
-
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,qt,visualstudio,arduino,cmake,unity)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,cpp,java,qt,visualstudio,arduino,cmake,unity" /></a>
+  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+</p>
 
 ---
 
-### ⚡ Projects I'm Working On:
+### ⚡ Projects
 
-- 📚 **[QT cmake library template](https://github.com/KROIA/QT_cmake_library_template)**: Template for creating c++ Qt libraries and applications
-- 🔧 **[Cmake Lib Creator](https://github.com/KROIA/CmakeLibCreator)**: Tool to create and manage CMake based c++ libaries using the template above.
-- 💲  **[Bank System Mod](https://github.com/KROIA/BankSystem)**: Minecraft mod that brings money and a banking system for items to the game.
-- 📈 **[Stock Market Mod](https://github.com/KROIA/StockMarket)**: Minecraft mod to buy and sell items on a global market.
-#### Libraries
-  * 🎮 **[QSFML EditorWidget](https://github.com/KROIA/QSFML_EditorWidget)**: A simple game enginge to create simulation projects.
-  * ✏️ **[Logger](https://github.com/KROIA/Logger)**: Library for creating and visualizing log messages.
-  * 🔐 **[License Manager](https://github.com/KROIA/LicenseManager)**: License creation and validation library.
-  * #️⃣ **[Ribbon Widget](https://github.com/KROIA/RibbonWidget)**: Library to create a ribbon for a Qt application.
-  * 🔀 **[Task Graph](https://github.com/KROIA/TaskGraph)**: Library for scheduling tasks with dependencies using multithreading.
-  * 🐒 **[Neural Net](https://github.com/KROIA/NeuralNet)**: Simple machine learning library.
-  * 📓 **[Json Database](https://github.com/KROIA/JsonDatabase)**: Library to serialize and deserialize objects as json format.
-  * 🔧 **[App Settings](https://github.com/KROIA/AppSettings)**: Library to manage application settings.
-  * 🔎 **[Unit Test](https://github.com/KROIA/UnitTest)**: Library to create unit tests.
-  * 💥 **[Crash Report](https://github.com/KROIA/CrashReport)**: Library that should detect the crash of a application and saves the stack trace and some debug infos.
-  * 🈂️ **[Command line parser](https://github.com/KROIA/CommandLineParser)**: Library to read and parse command line arguments.
-  * 📄 **[Object Serializer](https://github.com/KROIA/ObjectSerializer)**: Library to save and load objects to/from a binary file.
+<div align="center">
+<table>
+<tr><td align="right">📚 <b><a href="https://github.com/KROIA/QT_cmake_library_template">QT cmake library template</a></b></td><td align="left">Template for creating C++ Qt libraries and applications</td></tr>
+<tr><td align="right">🔧 <b><a href="https://github.com/KROIA/CmakeLibCreator">Cmake Lib Creator</a></b></td><td align="left">Tool to create and manage CMake-based C++ libraries</td></tr>
+<tr><td align="right">💲 <b><a href="https://github.com/KROIA/BankSystem">Bank System Mod</a></b> <a href="https://www.curseforge.com/minecraft/mc-mods/banksystem"><img src="https://img.shields.io/badge/CurseForge-F16436?style=flat&logo=curseforge&logoColor=white" /></a></td><td align="left">Minecraft mod — money & banking system for items</td></tr>
+<tr><td align="right">📈 <b><a href="https://github.com/KROIA/StockMarket">Stock Market Mod</a></b> <a href="https://www.curseforge.com/minecraft/mc-mods/stockmarket"><img src="https://img.shields.io/badge/CurseForge-F16436?style=flat&logo=curseforge&logoColor=white" /></a></td><td align="left">Minecraft mod — buy & sell items on a global market</td></tr>
+</table>
+</div>
 
-#### Unity Assets
-  * 📓 **[Flexible Save System](https://github.com/KROIA/Flexible-save-system)**: [Unity Asset Store](https://assetstore.unity.com/packages/add-ons/flexible-save-system-225017?srsltid=AfmBOoqDdcZV3FU8nCg029gN6xTE0E6i8E4hJ36Cq8EUV77YL5tSj0fJ)
+<details>
+<summary><strong>📦 Libraries</strong> (click to expand)</summary>
+<br>
 
-#### CAD Models
-  * 📐 **[All Models](https://grabcad.com/alex.krieg-1/models)**: CAD models for electronics and other stuff.
+<div align="center">
+<table>
+<tr><td align="right">🎮 <b><a href="https://github.com/KROIA/QSFML_EditorWidget">QSFML EditorWidget</a></b></td><td align="left">A simple game engine to create simulation projects</td></tr>
+<tr><td align="right">✏️ <b><a href="https://github.com/KROIA/Logger">Logger</a></b></td><td align="left">Creating and visualizing log messages</td></tr>
+<tr><td align="right">🔐 <b><a href="https://github.com/KROIA/LicenseManager">License Manager</a></b></td><td align="left">License creation and validation</td></tr>
+<tr><td align="right">#️⃣ <b><a href="https://github.com/KROIA/RibbonWidget">Ribbon Widget</a></b></td><td align="left">Ribbon UI for Qt applications</td></tr>
+<tr><td align="right">🔀 <b><a href="https://github.com/KROIA/TaskGraph">Task Graph</a></b></td><td align="left">Task scheduling with dependencies using multithreading</td></tr>
+<tr><td align="right">🐒 <b><a href="https://github.com/KROIA/NeuralNet">Neural Net</a></b></td><td align="left">Simple machine learning library</td></tr>
+<tr><td align="right">📓 <b><a href="https://github.com/KROIA/JsonDatabase">Json Database</a></b></td><td align="left">Serialize and deserialize objects as JSON</td></tr>
+<tr><td align="right">🔧 <b><a href="https://github.com/KROIA/AppSettings">App Settings</a></b></td><td align="left">Application settings management</td></tr>
+<tr><td align="right">🔎 <b><a href="https://github.com/KROIA/UnitTest">Unit Test</a></b></td><td align="left">Unit testing framework</td></tr>
+<tr><td align="right">💥 <b><a href="https://github.com/KROIA/CrashReport">Crash Report</a></b></td><td align="left">Crash detection with stack trace and debug info</td></tr>
+<tr><td align="right">🈂️ <b><a href="https://github.com/KROIA/CommandLineParser">Command Line Parser</a></b></td><td align="left">Parse command line arguments</td></tr>
+<tr><td align="right">📄 <b><a href="https://github.com/KROIA/ObjectSerializer">Object Serializer</a></b></td><td align="left">Save and load objects to/from binary files</td></tr>
+<tr><td align="right">🏗️ <b><a href="https://github.com/KROIA/DomainDrivenDesign">Domain Driven Design</a></b></td><td align="left">Domain driven design patterns</td></tr>
+<tr><td align="right">📊 <b><a href="https://github.com/KROIA/MatlabAPI">Matlab API</a></b></td><td align="left">Interfacing with Matlab</td></tr>
+<tr><td align="right">🤖 <b><a href="https://github.com/KROIA/QtLLM">QtLLM</a></b></td><td align="left">Qt-based large language model integration</td></tr>
+<tr><td align="right">🗃️ <b><a href="https://github.com/KROIA/SQLiteWrapper">SQLite Wrapper</a></b></td><td align="left">SQLite wrapper for easy database access</td></tr>
+<tr><td align="right">📋 <b><a href="https://github.com/KROIA/VariantTable">Variant Table</a></b></td><td align="left">Variant-based table data structures</td></tr>
+</table>
+</div>
+
+</details>
+
+<details>
+<summary><strong>🎮 Unity Assets</strong></summary>
+<br>
+
+<div align="center">
+<table>
+<tr><td align="right">📓 <b><a href="https://github.com/KROIA/Flexible-save-system">Flexible Save System</a></b></td><td align="left"><a href="https://assetstore.unity.com/packages/add-ons/flexible-save-system-225017"><img src="https://img.shields.io/badge/Asset%20Store-000000?style=flat&logo=unity&logoColor=white" /></a></td></tr>
+</table>
+</div>
+
+</details>
+
+<details>
+<summary><strong>📐 CAD Models</strong></summary>
+<br>
+
+<div align="center">
+<table>
+<tr><td align="right">📐 <b><a href="https://grabcad.com/alex.krieg-1/models">All Models</a></b></td><td align="left">CAD models for electronics and other stuff</td></tr>
+</table>
+</div>
+
+</details>
+
 ---
 
-### 🔬 Hobbies & Interests:
+### 🔬 Hobbies & Interests
 
-- C++ programming from scratch
-- Simulation programming
-- Designing custom applications and libraries
+- 🖥️ C++ programming from scratch
+- 🧪 Simulation programming
+- 🛠️ Designing custom applications and libraries
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://streak-stats.demolab.com/?user=KROIA&theme=dark" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KROIA&theme=darkhub&margin-w=8&no-frame=true&row=1" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph?username=KROIA&theme=github-dark" /></a>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KROIA&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KROIA&theme=github_dark" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KROIA&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KROIA&theme=github_dark&utcOffset=2" />
+</p>
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KROIA&show_icons=true&theme=dark)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/KROIA/KROIA/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/KROIA/KROIA/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://github.com/KROIA/KROIA/blob/output/github-contribution-grid-snake.svg" />
+</picture>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KROIA&style=flat-square&color=58A6FF" alt="Profile views" />
+</p>
